@@ -1,4 +1,4 @@
-
+//This porgram made with absolutely no AI.
 Faraid Inheritance Calculator (C Program)
 
 English Version
