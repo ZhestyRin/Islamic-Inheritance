@@ -25,7 +25,7 @@ void InputInheritance(Family *dt) {
 
 
 void InputChildren(Family *dt) {
-    printf("Is there a son? Enter '0' for no, '1' for yes\n");
+    printf("Is there a son? Enter '0' for no, or the number if any\n");
     scanf(" %d", &dt->Children[0]);
 
     printf("How many daughters? Enter '0' if none, or the number if any\n");
