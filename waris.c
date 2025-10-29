@@ -26,7 +26,7 @@ void Harta(Keluarga *dt) {
 
 
 void Anak(Keluarga *dt) {
-    printf("Apakah ada anak laki-laki? '0' untuk tidak, '1' untuk ada\n");
+    printf("Apakah ada anak laki-laki? '0' untuk tidak, 'jumlah' kalau ada\n");
     scanf(" %d", &dt->Anak[0]);
 
     printf("Berapakah jumlah anak Perempuan? '0' untuk tidak ada, 'jumlah' kalau ada\n");
