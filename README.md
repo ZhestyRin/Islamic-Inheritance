@@ -1,4 +1,4 @@
-//This porgram made with absolutely no AI.
+//This program was made with absolutely no AI.
 
 
 
